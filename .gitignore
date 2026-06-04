@@ -35,5 +35,5 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-outputs/
-# Optional: if you want to keep outputs in git, comment the line above
+# outputs/ 
+# Remark : if you want to keep outputs in git, comment the line above
